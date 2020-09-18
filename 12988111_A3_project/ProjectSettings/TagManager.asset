@@ -9,6 +9,7 @@ TagManager:
   - redGhost
   - yellowGhost
   - scaredGhost
+  - wall
   layers:
   - Default
   - TransparentFX
