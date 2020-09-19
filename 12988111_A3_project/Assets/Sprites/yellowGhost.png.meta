@@ -26,6 +26,18 @@ TextureImporter:
   - first:
       213: 5652089024437585496
     second: yellowGhost_7
+  - first:
+      213: -7690362853987930826
+    second: yellowGhost_8
+  - first:
+      213: 628618817653520915
+    second: yellowGhost_9
+  - first:
+      213: -4144387302615024844
+    second: yellowGhost_10
+  - first:
+      213: 7102191565392694630
+    second: yellowGhost_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -69,7 +81,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 8
+  spritePixelsToUnits: 26
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -126,9 +138,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 45
-        width: 15
-        height: 15
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,10 +158,10 @@ TextureImporter:
       name: yellowGhost_1
       rect:
         serializedVersion: 2
-        x: 15
-        y: 45
-        width: 15
-        height: 15
+        x: 128
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,10 +179,10 @@ TextureImporter:
       name: yellowGhost_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 30
-        width: 15
-        height: 15
+        x: 256
+        y: 384
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,10 +200,10 @@ TextureImporter:
       name: yellowGhost_3
       rect:
         serializedVersion: 2
-        x: 15
-        y: 30
-        width: 15
-        height: 15
+        x: 0
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,10 +221,10 @@ TextureImporter:
       name: yellowGhost_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 15
-        width: 15
-        height: 15
+        x: 128
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,10 +242,10 @@ TextureImporter:
       name: yellowGhost_5
       rect:
         serializedVersion: 2
-        x: 15
-        y: 15
-        width: 15
-        height: 15
+        x: 256
+        y: 256
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,9 +264,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 15
-        height: 15
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,10 +284,10 @@ TextureImporter:
       name: yellowGhost_7
       rect:
         serializedVersion: 2
-        x: 15
-        y: 0
-        width: 15
-        height: 15
+        x: 128
+        y: 128
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,6 +297,90 @@ TextureImporter:
       bones: []
       spriteID: 8568c7c8501407e40800000000000000
       internalID: 5652089024437585496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowGhost_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da036cab7564590800000000000000
+      internalID: -7690362853987930826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowGhost_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a3d5deb7d49b800800000000000000
+      internalID: 628618817653520915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowGhost_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfdf7c4bd2c76c0800000000000000
+      internalID: -4144387302615024844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellowGhost_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66dc106899d009260800000000000000
+      internalID: 7102191565392694630
       vertices: []
       indices: 
       edges: []

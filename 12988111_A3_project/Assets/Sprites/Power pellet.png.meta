@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b4b2d831f8eb7b94cb1e0528b28a3106
+guid: 5f7f111622224034dbe301b174da0353
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -156,9 +156,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 60
-        width: 15
-        height: 15
+        y: 240
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +176,10 @@ TextureImporter:
       name: Power pellet_1
       rect:
         serializedVersion: 2
-        x: 15
-        y: 60
-        width: 15
-        height: 15
+        x: 60
+        y: 240
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: Power pellet_2
       rect:
         serializedVersion: 2
-        x: 30
-        y: 60
-        width: 15
-        height: 15
+        x: 120
+        y: 240
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +218,10 @@ TextureImporter:
       name: Power pellet_3
       rect:
         serializedVersion: 2
-        x: 45
-        y: 60
-        width: 15
-        height: 15
+        x: 180
+        y: 240
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,9 +240,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 45
-        width: 15
-        height: 15
+        y: 180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -260,10 +260,10 @@ TextureImporter:
       name: Power pellet_5
       rect:
         serializedVersion: 2
-        x: 15
-        y: 45
-        width: 15
-        height: 15
+        x: 60
+        y: 180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -281,10 +281,10 @@ TextureImporter:
       name: Power pellet_6
       rect:
         serializedVersion: 2
-        x: 30
-        y: 45
-        width: 15
-        height: 15
+        x: 120
+        y: 180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -302,10 +302,10 @@ TextureImporter:
       name: Power pellet_7
       rect:
         serializedVersion: 2
-        x: 45
-        y: 45
-        width: 15
-        height: 15
+        x: 180
+        y: 180
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -324,9 +324,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 30
-        width: 15
-        height: 15
+        y: 120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -344,10 +344,10 @@ TextureImporter:
       name: Power pellet_9
       rect:
         serializedVersion: 2
-        x: 15
-        y: 30
-        width: 15
-        height: 15
+        x: 60
+        y: 120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,10 +365,10 @@ TextureImporter:
       name: Power pellet_10
       rect:
         serializedVersion: 2
-        x: 30
-        y: 30
-        width: 15
-        height: 15
+        x: 120
+        y: 120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,10 +386,10 @@ TextureImporter:
       name: Power pellet_11
       rect:
         serializedVersion: 2
-        x: 45
-        y: 30
-        width: 15
-        height: 15
+        x: 180
+        y: 120
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -408,9 +408,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 15
-        width: 15
-        height: 15
+        y: 60
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: Power pellet_13
       rect:
         serializedVersion: 2
-        x: 15
-        y: 15
-        width: 15
-        height: 15
+        x: 60
+        y: 60
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -449,10 +449,10 @@ TextureImporter:
       name: Power pellet_14
       rect:
         serializedVersion: 2
-        x: 30
-        y: 15
-        width: 15
-        height: 15
+        x: 120
+        y: 60
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -470,10 +470,10 @@ TextureImporter:
       name: Power pellet_15
       rect:
         serializedVersion: 2
-        x: 45
-        y: 15
-        width: 15
-        height: 15
+        x: 180
+        y: 60
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -493,8 +493,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 15
-        height: 15
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -512,10 +512,10 @@ TextureImporter:
       name: Power pellet_17
       rect:
         serializedVersion: 2
-        x: 15
+        x: 60
         y: 0
-        width: 15
-        height: 15
+        width: 60
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
