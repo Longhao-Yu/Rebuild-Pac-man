@@ -29,7 +29,7 @@ public class PacMove : MonoBehaviour
         {
             moveTime = (int)timer;
             MoveObjects();
-            Debug.Log(Dirx + "" + Diry);
+            Debug.Log("current position" + Dirx + ", " + Diry);
         }
     }
 
