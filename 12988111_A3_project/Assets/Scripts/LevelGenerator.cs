@@ -37,7 +37,6 @@ public class LevelGenerator : MonoBehaviour
       {21,5,5,5,5,5,5,5,5,5,5,5,5,41,41,5,5,5,5,5,5,5,5,5,5,5,5,21},
       {13,2,2,2,2,2,2,2,2,2,2,2,2,72,73,2,2,2,2,2,2,2,2,2,2,2,2,12},
     };
-
     public float TileSize;
     public Vector2 StartPoint;//top left corner of the map
 
@@ -66,12 +65,10 @@ public class LevelGenerator : MonoBehaviour
         {
             for (int j = 0; j < 28; j++)
             {
-
                 GameObject prefab = Resources.Load(tileMap[i, j].ToString()) as GameObject;
                 GameObject tile = Instantiate(prefab, Vector3.zero, Quaternion.identity) as GameObject;
                 //tile.transform.position = new Vector3(StartPoint.x + (TileSize * i) + (TileSize / 2), StartPoint.y + (TileSize * j) + (TileSize / 2), 0);
                 tile.transform.position = new Vector3(StartPoint.x + (TileSize * j * 4), StartPoint.y - (TileSize * i * 4), 0);
-
                 //Debug.Log("x= " + (StartPoint.x + (TileSize * j * 2)) + " " + "y = " + (StartPoint.y - (TileSize * i * 2)));
                 //Debug.Log(prefab);
             }

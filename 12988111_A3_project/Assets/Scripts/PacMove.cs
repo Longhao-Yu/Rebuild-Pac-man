@@ -25,7 +25,7 @@ public class PacMove : MonoBehaviour
         Dirx = transformArray[0].position.x;  
         Diry = transformArray[0].position.y;
         currD = (Vector2)transformArray[0].position;
-        if (timer > (moveTime + moveWait))
+        if (timer > (moveTime + moveWait))//每2s运行一次
         {
             moveTime = (int)timer;
             MoveObjects();
@@ -39,7 +39,7 @@ public class PacMove : MonoBehaviour
         //GameObject.Find("Pacman").GetComponent<Rigidbody2D>().MovePosition(temp);
         if (Dirx == 26 && Diry == 26)
         {
-            transformArray[0].position = new Vector3(26, 10, 0);
+            transformArray[0].position = new Vector3(26, 10, 0);//直接改变game object的位置
         }
         else if (Dirx == 26 && Diry == 10)
         {
