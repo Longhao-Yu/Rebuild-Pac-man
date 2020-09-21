@@ -803,6 +803,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Audio Source
       objectReference: {fileID: 0}
+    - target: {fileID: 6980283566765580519, guid: 916102016a2f71b4d860414caa47206d,
+        type: 3}
+      propertyPath: m_Volume
+      value: 0.2
+      objectReference: {fileID: 0}
     - target: {fileID: 6980283566765580520, guid: 916102016a2f71b4d860414caa47206d,
         type: 3}
       propertyPath: m_LocalPosition.x
